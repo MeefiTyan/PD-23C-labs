@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Clabs\\Pr2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A86514-9CFF-4ED3-ABDB-C6AB7BD533E2}|Pr2.4\\Pr2.4.csproj|c:\\users\\user\\desktop\\clabs\\pr2.4\\pr2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A86514-9CFF-4ED3-ABDB-C6AB7BD533E2}|Pr2.4\\Pr2.4.csproj|solutionrelative:pr2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Clabs\\Pr2.4\\Pr2.4\\Program.cs",
+              "RelativeDocumentMoniker": "Pr2.4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Clabs\\Pr2.4\\Pr2.4\\Program.cs",
+              "RelativeToolTip": "Pr2.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:21:49.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
