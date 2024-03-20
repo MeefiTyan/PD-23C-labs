@@ -32,6 +32,5 @@ class Figure
             perimeter += LengthSide(points[i], points[i + 1]);
         }
         perimeter += LengthSide(points[points.Length - 1], points[0]);
-        Console.WriteLine($"Perimeter: {perimeter}");
-    }
+        Console.WriteLine($"Figure:  {points[0].Name}{points[1].Name}{points[2].Name} Perimeter: {perimeter}");
 }
