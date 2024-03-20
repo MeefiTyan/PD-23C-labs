@@ -13,6 +13,24 @@ class Book
         this.content = new Content(content);
     }
 
+    public Title Title
+    {
+        get { return title; }
+        set { title = value; }
+    }
+
+    public Author Author
+    {
+        get { return author; }
+        set { author = value; }
+    }
+
+    public Content Content
+    {
+        get { return content; }
+        set { content = value; }
+    }
+
     public void Show()
     {
         Console.ForegroundColor = ConsoleColor.Magenta;
